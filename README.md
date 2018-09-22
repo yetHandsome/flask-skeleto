@@ -2,7 +2,7 @@
 [![coverage report](https://gitlab-demo.com/Demo/flask-skeleton/badges/master/coverage.svg)](https://gitlab-demo.com/Demo/flask-skeleton/commits/master)
 
 
-# Flask Skeleton
+# Flask Skeleton 
 
 Flask starter project...
 
